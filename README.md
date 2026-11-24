@@ -1,16 +1,22 @@
-## Hi there 👋
+# Waeal J. Obidallah, PhD
 
-<!--
-**waealobidallah/waealobidallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Associate Professor of Information Systems** at Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh  
+**Capacity Building Consultant** at the Saudi Data & AI Authority (SDAIA)
 
-Here are some ideas to get you started:
+I work at the intersection of digital transformation, AI capacity building, and data science, across research, teaching, and national-level programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+
+- Digital transformation and innovation
+- AI capacity building and AI literacy
+- Data science and machine learning applications
+
+### Education
+
+- **PhD, Digital Transformation and Innovation**, University of Ottawa (2021)
+- **MSc, Electronic Business Technologies**, University of Ottawa (2013)
+- **BSc, Information Systems**, Imam Mohammad Ibn Saud Islamic University (2008)
+
+### Find me
+
+[Google Scholar](https://scholar.google.com/citations?user=-TA8SkcAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5086-3950) · [LinkedIn](https://www.linkedin.com/in/waealobidallah/) · [Website](https://waealobidallah.github.io) · [Email](mailto:wobaidallah@imamu.edu.sa)
