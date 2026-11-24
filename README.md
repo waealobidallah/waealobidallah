@@ -7,14 +7,11 @@ My work centres on **artificial intelligence** and **innovation**: applying AI a
 
 ### Research interests
 
-- **Artificial intelligence and machine learning**: deep learning, explainable AI, computer vision
-- **Innovation and digital transformation**: technology adoption, emerging technologies in organizations
-- **Generative AI in education**: ChatGPT adoption, adaptive and personalized learning, AI literacy
-- **AI in healthcare**: medical image analysis, early disease detection, clinical decision support
-- **Blockchain and IoT**: health records, traceability, smart-city applications
-- **Cybersecurity and privacy**: IoT and healthcare security, malware and fraud detection
-- **Decision science**: fuzzy logic and multi-criteria decision-making
-- **Data science and service computing**: big data analytics, web service discovery
+- **Artificial intelligence and machine learning**: deep learning, explainable AI
+- **Innovation and digital transformation**: technology adoption, emerging technologies
+- **Generative AI in education**: ChatGPT adoption, personalized learning, AI literacy
+- **AI in healthcare**: medical image analysis, early disease detection
+- **Blockchain, IoT, and cybersecurity**: health records, traceability, IoT security
 
 ### Education
 
