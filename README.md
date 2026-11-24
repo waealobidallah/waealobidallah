@@ -3,13 +3,18 @@
 **Associate Professor of Information Systems** at Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh  
 **Capacity Building Consultant** at the Saudi Data & AI Authority (SDAIA)
 
-I work at the intersection of digital transformation, AI capacity building, and data science, across research, teaching, and national-level programs.
+My work centres on **artificial intelligence** and **innovation**: applying AI and machine learning to real problems in healthcare, education, and security, and studying how organizations adopt and transform with emerging technologies. I do this across research, teaching, and national-level AI capacity-building programs.
 
 ### Research interests
 
-- Digital transformation and innovation
-- AI capacity building and AI literacy
-- Data science and machine learning applications
+- **Artificial intelligence and machine learning**: deep learning, explainable AI, computer vision
+- **Innovation and digital transformation**: technology adoption, emerging technologies in organizations
+- **Generative AI in education**: ChatGPT adoption, adaptive and personalized learning, AI literacy
+- **AI in healthcare**: medical image analysis, early disease detection, clinical decision support
+- **Blockchain and IoT**: health records, traceability, smart-city applications
+- **Cybersecurity and privacy**: IoT and healthcare security, malware and fraud detection
+- **Decision science**: fuzzy logic and multi-criteria decision-making
+- **Data science and service computing**: big data analytics, web service discovery
 
 ### Education
 
